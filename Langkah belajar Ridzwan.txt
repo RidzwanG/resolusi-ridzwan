@@ -1,0 +1,6 @@
+Belajar :
+- React
+- Js
+- Html
+- Css
+- Tailwind
