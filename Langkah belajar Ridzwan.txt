@@ -4,3 +4,4 @@ Belajar :
 - Html
 - Css
 - Tailwind
+- Laravel 
