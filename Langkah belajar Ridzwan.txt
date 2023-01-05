@@ -2,6 +2,7 @@ Belajar :
 - React
 - Vue
 - Js
+- Css
+- Html
 - Tailwind
-- Laravel 
-- Js DOM
+
