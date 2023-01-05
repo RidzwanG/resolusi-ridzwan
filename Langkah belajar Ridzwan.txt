@@ -1,6 +1,6 @@
 Belajar :
 - React
+- Vue
 - Js
 - Html
-- Css
 - Tailwind
